@@ -13,3 +13,6 @@ jobs:
       - name: Say hello
         run: |
           echo "Hello World!"
+      - name: Directory itis 
+        run: |
+          echo ls -l
